@@ -165,18 +165,18 @@ body {
     }
     .photo {
         width: 370px;
-        margin-bottom: 50px;}
+        margin-bottom: 40px;}
     
     .contacts,
     .tech-skills,
     .soft-skills{
-    margin-left: 40px;
+    margin-left: 45px;
     }
     .contacts{
-        margin-bottom: 50px;
+        margin-bottom: 40px;
     }
     .tech-skills{
-        margin-bottom: 45px;
+        margin-bottom: 40px;
     }
     
     .sidebar-title {
