@@ -16,8 +16,8 @@ body {
 
 .main-content {
   background-color: white;
-  //box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-  padding: 90px 90px;
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
+  padding: 80px 90px;
 }
 /* about styles */
 .about {
@@ -93,7 +93,7 @@ body {
 
 /* work slyles */
 .work {
-  margin-bottom: 45px;
+  margin-bottom: 30px;
 }
 
 .worck-position {
@@ -139,7 +139,7 @@ body {
 }
 /* education styles*/
 .education {
-  margin-top: 40px;
+  margin-top: 30px;
 }
 .education-stady {
   font-style: normal;
