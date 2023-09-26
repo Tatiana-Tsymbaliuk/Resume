@@ -161,12 +161,12 @@ body {
 /* sidebar styles */
 .sidebar {
   background-color: #73706f;
-  padding-top: 40px;
+  padding-top: 20px;
   width: 370px;
 }
 .photo {
   width: 370px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .contacts,
