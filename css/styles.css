@@ -37,15 +37,16 @@ body {
   font-size: 45px;
   line-height: 55px;
   color: #000000;
-  margin-bottom: 25px;
+  margin-bottom: 35px;
 }
 .about-description {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
   width: 700px;
+  margin-bottom: 50px;
 }
 
 /* project styles */
@@ -68,7 +69,7 @@ body {
 .projects-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #000000;
 }
@@ -76,7 +77,7 @@ body {
 .project-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
 }
@@ -86,7 +87,7 @@ body {
 .project-bracket {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #000000;
 }
@@ -133,7 +134,7 @@ body {
 .work-list-item {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
 }
@@ -152,7 +153,7 @@ body {
 .stady {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 10px;
@@ -194,7 +195,7 @@ body {
 .contact-type {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: white;
   margin-right: 5px;
@@ -202,7 +203,7 @@ body {
 .contact-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: white;
 }
@@ -218,7 +219,7 @@ body {
   color: white;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
 .soft-skills-list {
@@ -233,6 +234,6 @@ body {
   color: white;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
