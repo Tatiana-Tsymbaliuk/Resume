@@ -45,12 +45,13 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  width: 400px;
+  width: 700px;
 }
 
 /* project styles */
 .projects {
   margin-bottom: 50px;
+  width: 700px;
 }
 
 .title {
